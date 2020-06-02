@@ -5,5 +5,5 @@ This is a simple program which draws a Red Box around faces in an image file usi
 <img src = 'img-rectangled/3-rectangle.png'> 
 <img src = 'img-rectangled/12-rectangle.png'>
 
-## Image Sources
+## Image Source
 Google Images : https://www.google.co.in/imghp
