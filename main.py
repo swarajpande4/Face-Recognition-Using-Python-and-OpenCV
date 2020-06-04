@@ -18,7 +18,9 @@ img = cv2.imread(imagePath)
 grayImg = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 # Detecting faces in the grayscale image
-faces = faceCascade.detectMultiScale(grayImg, 1.2, 5)
+scaleFactor = 1.2
+minNeighbors = 5
+faces = faceCascade.detectMultiScale(grayImg, scaleFactor, minNeighbors)
 
 print(f"Number of Faces: {len(faces)}")
 
