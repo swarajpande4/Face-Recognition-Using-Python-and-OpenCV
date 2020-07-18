@@ -15,7 +15,7 @@ Specify the Image Path on Line 5.
 imagePath = "img/1.png"
 ```
 \
-In face_recognition_live.py, make sure that there is a functioning Webcam connected to Computer.
+In face_recognition_live.py, make sure that there is a functioning Webcam connected to the Computer.
 \
 To Exit from the Image display press q.
 
