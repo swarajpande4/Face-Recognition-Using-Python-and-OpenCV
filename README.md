@@ -17,7 +17,7 @@ imagePath = "img/1.png"
 \
 In face_recognition_live.py, make sure that there is a functioning Webcam connected to the Computer.
 \
-To Exit from the Image display press q.
+To Exit from the Webcam Capture (Image display) press q.
 
 ## Examples
 <img height = 150 src = 'img-rectangled/3-rectangle.png'> 
