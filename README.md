@@ -1,5 +1,5 @@
 # Image Recognition Using Python and OpenCV
-This is a simple program which draws a Red Box around faces in an image file using Python and OpenCV (Haar Cascade).
+This is a simple program which draws a Red Box around faces in an image file using Python and OpenCV (using Haar Cascade Classifier).
 
 ## Installation of OpenCV
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install OpenCV Library
